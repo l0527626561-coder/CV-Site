@@ -1,0 +1,6 @@
+@GitHubPortfolioApi_HostAddress = http://localhost:5023
+
+GET {{GitHubPortfolioApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
